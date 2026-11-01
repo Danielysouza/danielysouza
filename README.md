@@ -23,7 +23,7 @@ Estudante de Engenharia de Software, aprendendo Java e lógica de programação.
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff8fbd?style=for-the-badge)](https://www.linkedin.com/in/daniely-souza-da-silva-7a78982a9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4f2233?style=for-the-badge)](https://www.linkedin.com/in/daniely-souza-da-silva-7a78982a9)
 [![Email](https://img.shields.io/badge/Email-4f2233?style=for-the-badge)](mailto:daniely.souza.dny@gmail.com)
 
 <div align="center">
