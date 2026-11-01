@@ -1,22 +1,30 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Oi, eu sou a Dani — bem-vinda ao meu cantinho de código" width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4f2233&height=220&section=header&text=Oi%2C%20eu%20sou%20a%20Dany&fontSize=48&fontColor=fba2c7&fontAlignY=40&desc=bem-vindos%20ao%20meu%20GitHub&descAlignY=62&descSize=18" width="100%" alt="banner rosa" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=22&pause=1000&color=FF8FBD&center=true&vCenter=true&width=500&lines=um+commit+de+cada+vez+%F0%9F%8C%B8;Engenharia+de+software+%F0%9F%90%B1" alt="texto animado" />
+
 </div>
 
-## Sobre mim
+## 🌸 Sobre mim
 
-[Conte aqui o que você está estudando, o que ama fazer e o que está construindo agora.]
+Estudante de Engenharia de Software, aprendendo Java e lógica de programação. Gosto de aprender na prática e de evoluir um commit de cada vez.
 
-## Minhas ferramentas
+## 🐱 Minhas ferramentas
+![Java](https://img.shields.io/badge/Java-ff8fbd?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<img src="assets/ferramentas.svg" alt="HTML, CSS, JavaScript, Git" height="54">
-
-## Meus números
+## 💗 Meus números
 
 <img src="assets/numeros.svg" alt="repositórios, estrelas e commits no ano" width="100%">
 
 ## Minhas contribuições
 
 <img src="assets/contribuicoes.svg" alt="minhas contribuições" width="100%">
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff8fbd?style=for-the-badge)](COLE_AQUI_O_LINK_DO_SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-d6336c?style=for-the-badge)](mailto:daniely.souza.dny@gmail.com)
 
 <div align="center">
   <img src="assets/flores.svg" alt="flores" width="120">
