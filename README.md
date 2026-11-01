@@ -11,7 +11,7 @@
 Estudante de Engenharia de Software, aprendendo Java e lógica de programação. Gosto de aprender na prática e de evoluir um commit de cada vez.
 
 ## 🐱 Minhas ferramentas
-![Java](https://img.shields.io/badge/Java-ff8fbd?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-4f2233?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 💗 Meus números
 
@@ -23,8 +23,8 @@ Estudante de Engenharia de Software, aprendendo Java e lógica de programação.
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff8fbd?style=for-the-badge)](COLE_AQUI_O_LINK_DO_SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-d6336c?style=for-the-badge)](mailto:daniely.souza.dny@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4f2233?style=for-the-badge)](COLE_AQUI_O_LINK_DO_SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-4f2233?style=for-the-badge)](mailto:daniely.souza.dny@gmail.com)
 
 <div align="center">
   <img src="assets/flores.svg" alt="flores" width="120">
