@@ -1,23 +1,23 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff8fbd&height=220&section=header&text=Oi%2C%20eu%20sou%20a%20Dani&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=bem-vinda%20ao%20meu%20cantinho%20de%20c%C3%B3digo&descAlignY=62&descSize=18" width="100%" alt="banner rosa" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=22&pause=1000&color=FF8FBD&center=true&vCenter=true&width=500&lines=gatinhos+e+flores+%F0%9F%8C%B8;codando+com+carinho+%F0%9F%90%B1" alt="texto animado" />
-
+  <img src="assets/banner.svg" alt="Oi, eu sou a Dani — bem-vinda ao meu cantinho de código" width="100%">
 </div>
 
-## 🌸 Sobre mim
-[Conte aqui o que você estuda, o que ama fazer e o que está construindo agora.]
+## Sobre mim
 
-## 🐱 Minhas ferramentas
-![HTML](https://img.shields.io/badge/HTML-ff8fbd?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-f783ac?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-e64980?style=for-the-badge&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-d6336c?style=for-the-badge&logo=git&logoColor=white)
+[Conte aqui o que você está estudando, o que ama fazer e o que está construindo agora.]
 
-## 💗 Meus números
+## Minhas ferramentas
+
+<img src="assets/ferramentas.svg" alt="HTML, CSS, JavaScript, Git" height="54">
+
+## Meus números
+
+<img src="assets/numeros.svg" alt="repositórios, estrelas e commits no ano" width="100%">
+
+## Minhas contribuições
+
+<img src="assets/contribuicoes.svg" alt="minhas contribuições" width="100%">
+
 <div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=Danielysouza&show_icons=true&hide_border=true&bg_color=2a1722&title_color=ff8fbd&text_color=ffe3ef&icon_color=ff8fbd)
-
-<
+  <img src="assets/flores.svg" alt="flores" width="120">
+</div>
